@@ -1,8 +1,7 @@
 import PageLayout from "../../components/Page-Layout";
 
 function Main() {
-  //   return <PageLayout>Hello</PageLayout>;
-  return <div>Hello</div>;
+  return <PageLayout>Hello new</PageLayout>;
 }
 
 export default Main;
