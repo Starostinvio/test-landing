@@ -1,4 +1,6 @@
 .Page-layout {
+  display: flex;
+  flex-direction: column;
   background-color: rgb(240, 240, 240);
   min-height: 100vh;
 }
