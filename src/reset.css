@@ -30,7 +30,7 @@ h6 {
 #root,
 html,
 body {
-  height: 100vh;
+  min-height: 100vh;
   background-color: rgb(32, 23, 62) !important;
   display: flex;
   flex-direction: column;
