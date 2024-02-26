@@ -1,10 +1,12 @@
 .Page-layout {
   background-color: rgb(240, 240, 240);
+  min-height: 100vh;
 }
 .Header {
 }
 .Menu {
-  color: white;
+  color: black;
 }
 .Menu-item {
+  cursor: pointer;
 }
