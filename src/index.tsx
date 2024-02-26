@@ -15,5 +15,5 @@ root.render(
   //   {/* </BrowserRouter> */}
   //   <Main />
   // </React.StrictMode>
-  <div>Back css</div>
+  <div>new version</div>
 );
