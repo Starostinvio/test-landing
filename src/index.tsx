@@ -15,5 +15,5 @@ root.render(
   //   {/* </BrowserRouter> */}
   //   <Main />
   // </React.StrictMode>
-  <div>Root in css</div>
+  <div>Flex</div>
 );
