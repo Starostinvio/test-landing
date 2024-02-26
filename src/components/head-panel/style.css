@@ -1,0 +1,6 @@
+.HeadPanel {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+  padding: 15px 10px;
+}

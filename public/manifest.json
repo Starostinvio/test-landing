@@ -3,6 +3,6 @@
   "name": "Smaller",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "blue",
-  "background_color": "yellow"
+  "theme_color": "white",
+  "background_color": "white"
 }
