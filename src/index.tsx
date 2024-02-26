@@ -15,5 +15,5 @@ root.render(
   //   {/* </BrowserRouter> */}
   //   <Main />
   // </React.StrictMode>
-  <div>Min-height 100vh</div>
+  <div>Padding, Relative</div>
 );
