@@ -15,5 +15,5 @@ root.render(
   //   {/* </BrowserRouter> */}
   //   <Main />
   // </React.StrictMode>
-  <div>No strict mode</div>
+  <div>Body 100vh</div>
 );
