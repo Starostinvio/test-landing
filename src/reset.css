@@ -27,6 +27,7 @@ h6 {
   font-weight: inherit;
   font-size: inherit;
 }
+#root,
 html,
 body {
   height: 100vh;
