@@ -15,5 +15,5 @@ root.render(
   //   {/* </BrowserRouter> */}
   //   <Main />
   // </React.StrictMode>
-  <div>Padding, Relative</div>
+  <div>REmove theme color</div>
 );
